@@ -20,15 +20,15 @@
         "title": "Location"
       },
       {
-        "url": "/sponsoring.html",
+        "url": "/sponsoring",
         "title": "Sponsoring"
       },
       {
-        "url": "/participants.html",
+        "url": "/participants",
         "title": "Participants"
       },
       {
-        "url": "/values.html",
+        "url": "/values",
         "title": "Values"
       }
     ],
@@ -505,27 +505,27 @@
   "theteam": [
     {
       "name": "Wolfram Kriesing",
-      "photo": "wolfram.jpg",
+      "photo": "/wolfram.jpg",
       "email": "w@kriesing.de"
     },
     {
       "name": "Robert Hostlowsky",
-      "photo": "robert.png",
+      "photo": "/robert.png",
       "email": "robert.hostlowsky@codecentric.de"
     },
     {
       "name": "Marco Emrich",
-      "photo": "marco.jpg",
+      "photo": "/marco.jpg",
       "email": "marco.emrich@codecentric.de"
     },
     {
       "name": "Marc Emmanuel",
-      "photo": "marc.jpg",
+      "photo": "/marc.jpg",
       "email": "marc.emmanuel@virtual-identity.com"
     },
     {
       "name": "Sebastian Frerichs",
-      "photo": "sebastian.jpg",
+      "photo": "/sebastian.jpg",
       "email": "sebastian.frerichs@codecentric.de"
     }
   ]
