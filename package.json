@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "hamjest": "3.2.3",
-    "mocha": "6.1.4",
+    "mocha": "7.1.0",
     "recursive-readdir-sync": "1.0.6",
     "prettier": "1.19.1"
   },
