@@ -24,7 +24,7 @@
     "hamjest": "3.2.3",
     "mocha": "6.1.4",
     "recursive-readdir-sync": "1.0.6",
-    "prettier": "1.19.1"
+    "prettier": "2.0.2"
   },
   "scripts": {
     "develop": "gatsby develop",
